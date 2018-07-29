@@ -1,3 +1,2 @@
-# HelloAnnora
-hiahiahia
-i don't kown how to use this web orz...
+# Hello
+Welcome to my page :)
